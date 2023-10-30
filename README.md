@@ -19,9 +19,9 @@
 <p align="left">
 <a href="https://twitter.com/praveeneluri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="praveeneluri" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/praveen-eluri-712748249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="praveen-eluri-712748249" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/eswarpraveeneluri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="eswarpraveeneluri" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/eswarpraveen_el1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="eswarpraveen_el1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/praveenesp_10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="praveenesp_10" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/eswarpraveeneluri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="eswarpraveeneluri" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
