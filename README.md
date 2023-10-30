@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Praveen Eluri</h1>
 <h3 align="center">A passionate Software and Machine developer from India</h3>
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveenesp&label=Profile%20views&color=0e75b6&style=flat" alt="praveenesp" /> </p>
 
 <p align="left"> <a href="https://twitter.com/praveeneluri" target="blank"><img src="https://img.shields.io/twitter/follow/praveeneluri?logo=twitter&style=for-the-badge" alt="praveeneluri" /></a> </p>
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **eswarpraveen.eluri@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1oTX6s3boe3ot9gLCTR3xCp3h5I3QJrwI/view?usp=sharing](https://drive.google.com/file/d/1oTX6s3boe3ot9gLCTR3xCp3h5I3QJrwI/view?usp=sharing)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1oTX6s3boe3ot9gLCTR3xCp3h5I3QJrwI/view?usp=sharing)
 
 - ⚡ Fun fact **I am friendly to talk**
 
