@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **eswarpraveen.eluri@gmail.com**
 
-- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1oTX6s3boe3ot9gLCTR3xCp3h5I3QJrwI/view?usp=sharing)
+- 📄 Know about my experiences [RESUME]()
 
 - ⚡ Fun fact **I am friendly to talk**
 
