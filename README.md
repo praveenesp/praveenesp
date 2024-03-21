@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/praveeneluri" target="blank"><img src="https://img.shields.io/twitter/follow/praveeneluri?logo=twitter&style=for-the-badge" alt="praveeneluri" /></a> </p>
 
-- 🌱 I’m currently learning **Networking**
+- 🌱 I’m currently learning **React JS**
 
 - 💬 Ask me about **Machine Learning, Deep Learning**
 
